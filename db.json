@@ -1,40 +1,40 @@
 {
   "users": [
     {
-      "id": 1, "full_name": "Ebbe Gemariah", "profile_pic": "https://picsum.photos/150", "registered": "01/01/2018", "user_type": "Provider", "is_active": true, "_cellVariants": "success"
+      "id": 1, "full_name": "Ebbe Gemariah", "profile_pic": "https://picsum.photos/35", "registered": "01/01/2018", "user_type": "Provider", "is_active": true, "_cellVariants": "success"
     },
     {
-      "id": 2, "full_name": "Félix Troels", "profile_pic": "https://picsum.photos/150", "registered": "01/02/2018", "user_type": "Provider", "is_active": true, "_cellVariants": "success"
+      "id": 2, "full_name": "Félix Troels", "profile_pic": "https://picsum.photos/35", "registered": "01/02/2018", "user_type": "Provider", "is_active": true, "_cellVariants": "success"
     },
     {
-      "id": 3, "full_name": "Carwyn Fachtna", "profile_pic": "https://picsum.photos/150", "registered": "01/03/2018", "user_type": "Patient", "is_active": false, "_cellVariants": "danger"
+      "id": 3, "full_name": "Carwyn Fachtna", "profile_pic": "https://picsum.photos/35", "registered": "01/03/2018", "user_type": "Patient", "is_active": false, "_cellVariants": "danger"
     },
     {
-      "id": 4, "full_name": "Einar Randall", "profile_pic": "https://picsum.photos/150", "registered": "01/04/2018", "user_type": "Patient", "is_active": false, "_cellVariants": "danger"
+      "id": 4, "full_name": "Einar Randall", "profile_pic": "https://picsum.photos/35", "registered": "01/04/2018", "user_type": "Patient", "is_active": false, "_cellVariants": "danger"
     },
     {
-      "id": 5, "full_name": "Enéas Kwadwo", "profile_pic": "https://picsum.photos/150", "registered": "01/05/2018", "user_type": "Patient", "is_active": true, "_cellVariants": "success"
+      "id": 5, "full_name": "Enéas Kwadwo", "profile_pic": "https://picsum.photos/35", "registered": "01/05/2018", "user_type": "Patient", "is_active": true, "_cellVariants": "success"
     },
     {
-      "id": 6, "full_name": "Samppa Nori", "profile_pic": "https://picsum.photos/150", "registered": "01/06/2018", "user_type": "Patient", "is_active": true, "_cellVariants": "success"
+      "id": 6, "full_name": "Samppa Nori", "profile_pic": "https://picsum.photos/35", "registered": "01/06/2018", "user_type": "Patient", "is_active": true, "_cellVariants": "success"
     },
     {
-      "id": 7, "full_name": "Zbyněk Phoibos", "profile_pic": "https://picsum.photos/150", "registered": "01/07/2018", "user_type": "Provider", "is_active": false, "_cellVariants": "danger"
+      "id": 7, "full_name": "Zbyněk Phoibos", "profile_pic": "https://picsum.photos/35", "registered": "01/07/2018", "user_type": "Provider", "is_active": false, "_cellVariants": "danger"
     },
     {
-      "id": 8, "full_name": "Vishnu Serghei", "profile_pic": "https://picsum.photos/150", "registered": "01/08/2018", "user_type": "Provider", "is_active": true, "_cellVariants": "success"
+      "id": 8, "full_name": "Vishnu Serghei", "profile_pic": "https://picsum.photos/35", "registered": "01/08/2018", "user_type": "Provider", "is_active": true, "_cellVariants": "success"
     },
     {
-      "id": 9, "full_name": "Estavan Lykos", "profile_pic": "https://picsum.photos/150", "registered": "01/09/2018", "user_type": "Provider", "is_active": true, "_cellVariants": "success"
+      "id": 9, "full_name": "Estavan Lykos", "profile_pic": "https://picsum.photos/35", "registered": "01/09/2018", "user_type": "Provider", "is_active": true, "_cellVariants": "success"
     },
     {
-      "id": 10, "full_name": "Eustorgios Amulius", "profile_pic": "https://picsum.photos/150", "registered": "01/10/2018", "user_type": "Patient", "is_active": true, "_cellVariants": "success"
+      "id": 10, "full_name": "Eustorgios Amulius", "profile_pic": "https://picsum.photos/35", "registered": "01/10/2018", "user_type": "Patient", "is_active": true, "_cellVariants": "success"
     },
     {
-      "id": 11, "full_name": "Nehemiah Tatius", "profile_pic": "https://picsum.photos/150", "registered": "01/11/2018", "user_type": "Provider", "is_active": false, "_cellVariants": "danger"
+      "id": 11, "full_name": "Nehemiah Tatius", "profile_pic": "https://picsum.photos/35", "registered": "01/11/2018", "user_type": "Provider", "is_active": false, "_cellVariants": "danger"
     },
     {
-      "id": 12, "full_name": "Avram Tarasios", "profile_pic": "https://picsum.photos/150", "registered": "01/12/2018", "user_type": "Provider", "is_active": false, "_cellVariants": "danger"
+      "id": 12, "full_name": "Avram Tarasios", "profile_pic": "https://picsum.photos/35", "registered": "01/12/2018", "user_type": "Provider", "is_active": false, "_cellVariants": "danger"
     }
   ],
   "posts": [
