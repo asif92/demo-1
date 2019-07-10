@@ -1,4 +1,42 @@
 {
+  "users": [
+    {
+      "id": 1, "Full Name": "Ebbe Gemariah", "profile_pic": "https://picsum.photos/150", "registered": "01/01/2018", "user_type": "Provider", "status": "Active", "_cellVariants": "success"
+    },
+    {
+      "id": 2, "Full Name": "Félix Troels", "profile_pic": "https://picsum.photos/150", "registered": "01/02/2018", "user_type": "Provider", "status": "Active", "_cellVariants": "success"
+    },
+    {
+      "id": 3, "Full Name": "Carwyn Fachtna", "profile_pic": "https://picsum.photos/150", "registered": "01/03/2018", "user_type": "Patient", "status": "inActive", "_cellVariants": "danger"
+    },
+    {
+      "id": 4, "Full Name": "Einar Randall", "profile_pic": "https://picsum.photos/150", "registered": "01/04/2018", "user_type": "Patient", "status": "inActive", "_cellVariants": "danger"
+    },
+    {
+      "id": 5, "Full Name": "Enéas Kwadwo", "profile_pic": "https://picsum.photos/150", "registered": "01/05/2018", "user_type": "Patient", "status": "Active", "_cellVariants": "success"
+    },
+    {
+      "id": 6, "Full Name": "Samppa Nori", "profile_pic": "https://picsum.photos/150", "registered": "01/06/2018", "user_type": "Patient", "status": "Active", "_cellVariants": "success"
+    },
+    {
+      "id": 7, "Full Name": "Zbyněk Phoibos", "profile_pic": "https://picsum.photos/150", "registered": "01/07/2018", "user_type": "Provider", "status": "inActive", "_cellVariants": "danger"
+    },
+    {
+      "id": 8, "Full Name": "Vishnu Serghei", "profile_pic": "https://picsum.photos/150", "registered": "01/08/2018", "user_type": "Provider", "status": "Active", "_cellVariants": "success"
+    },
+    {
+      "id": 9, "Full Name": "Estavan Lykos", "profile_pic": "https://picsum.photos/150", "registered": "01/09/2018", "user_type": "Provider", "status": "Active", "_cellVariants": "success"
+    },
+    {
+      "id": 10, "Full Name": "Eustorgios Amulius", "profile_pic": "https://picsum.photos/150", "registered": "01/10/2018", "user_type": "Patient", "status": "Active", "_cellVariants": "success"
+    },
+    {
+      "id": 11, "Full Name": "Nehemiah Tatius", "profile_pic": "https://picsum.photos/150", "registered": "01/11/2018", "user_type": "Provider", "status": "inActive", "_cellVariants": "danger"
+    },
+    {
+      "id": 12, "Full Name": "Avram Tarasios", "profile_pic": "https://picsum.photos/150", "registered": "01/12/2018", "user_type": "Provider", "status": "inActive", "_cellVariants": "danger"
+    }
+  ],
   "posts": [
     {
       "id": "first-blog-post-title",
